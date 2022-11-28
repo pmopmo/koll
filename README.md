@@ -1,0 +1,2 @@
+# koll
+Barebone server checkup
